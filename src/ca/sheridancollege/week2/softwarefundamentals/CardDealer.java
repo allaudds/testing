@@ -15,6 +15,7 @@ public class CardDealer
     {
         Card nineClubs = new Card("Clbs", 9);
         nineClubs.setSuit("diamonds");
-        //test Sarim
+        //email: sarim0@hotmail.com
+        //username: allaudds
     }
 }
